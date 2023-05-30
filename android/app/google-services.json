@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528965591112",
+    "project_id": "note-making-b03bc",
+    "storage_bucket": "note-making-b03bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528965591112:android:bad9c42137e1e85e96787d",
+        "android_client_info": {
+          "package_name": "com.example.note_making"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavr5qt6L-VsmPHo8-V2ihCeWHnYFYWxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
